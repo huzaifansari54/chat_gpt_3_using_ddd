@@ -1,4 +1,4 @@
-const apiToken = "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";
+const apiToken = "you api key";
 const baseUrl = "https://api.openai.com/v1";
 
 String endPoint(String endPoint) => "$baseUrl/$endPoint";
